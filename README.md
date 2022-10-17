@@ -75,6 +75,9 @@ http://www.nongli.net/
 寿星万年历 http://www.nongli.net/sxwnl/   
 黄道日历  http://www.nongli.net/huangli/
 
+* 农历计算文章  
+[万年历的推算](https://mp.weixin.qq.com/s?src=11&timestamp=1665925713&ver=4108&signature=lcw5Mp9T5d9pOh5qeS9jYZutqDiD8tvxGWO4wtHBw*zg2D3957EkFl*FhHBfPhPZ7oy6N5I3i0F3tsyUzfkhvFB85aox6EelHqOVeswtsNj8fOgmRK0kIT0oF9IK14SQ&new=1)        
+[农历计算方法](https://www.jianshu.com/p/d3b63ee7492f)    
 
 ## 开源项目
 * lunar/Calendar  
@@ -94,6 +97,7 @@ https://github.com/nhn/tui.calendar
 
 ## 历法数据
 ### 公历与农历对照
-* 香港天文台公历与农历对照表1901至2100年
+* 香港天文台公历与农历对照表1901至2100年  
 https://www.hko.gov.hk/tc/gts/time/conversion.htm 
-* 
+* 台湾中研院兩千年中西曆轉換  
+https://sinocal.sinica.edu.tw/
