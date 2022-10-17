@@ -6,6 +6,9 @@
 [农历编算法则](https://ytliu0.github.io/ChineseCalendar/rules_simp.html#pmo86)
 
 * 二十四节气   
+* ![24solarterms.png](./images/24solarterms.png)
+https://www.hko.gov.hk/tc/gts/time/24solarterms.htm
 https://ytliu0.github.io/ChineseCalendar/solarTerms_simp.html
+
 * 六十干支   
 https://ytliu0.github.io/ChineseCalendar/sexagenary_simp.html

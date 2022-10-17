@@ -32,6 +32,9 @@ ChineseCalendar中华万年历(公元️前721-公元2200年)是包含公历、�
 公曆（格勒哥里曆）是世界上大多數地方使用的曆法。1582年10月，教宗格勒哥里十三世（Pope Gregory XIII）介紹和引入這種曆法，作為對儒略曆（Julian calendar）的修改和替代。
 主要的變化是對閏年的加入進行了不同的劃分，使平均行事曆年長365.2425天，更接近由地球繞太陽公轉决定的365.2422天的回歸或太陽年。
 
+公历自1582年10月15日起用格里高里历，之前用儒略历，格里高里历改使1582年10月4日的下一日变成10月15日。
+公元8年以前的日期用逆推的儒略历(proleptic Julian calendar)。
+
 ### [农历Lunar](./doc/Lunar.md)
 農曆，現今中华文化圈民間傳統廣泛使用的陰陽合曆。古代相傳為黃帝時代或者夏朝創制，又稱黃曆、夏曆。
 
@@ -64,11 +67,14 @@ ChineseCalendar中华万年历(公元️前721-公元2200年)是包含公历、�
 
 # 参考资料
 ## 资料
-* ChineseCalendar
-  Conversion between the Western calendar and Chinese calendar     
+* ChineseCalendar农历   
+  公历与农历转换        
   https://github.com/ytliu0/ChineseCalendar 
 * 农历网   
-http://www.nongli.net/
+http://www.nongli.net/   
+寿星万年历 http://www.nongli.net/sxwnl/   
+黄道日历  http://www.nongli.net/huangli/
+
 
 ## 开源项目
 * lunar/Calendar  
@@ -76,7 +82,11 @@ lunar是一个支持阳历、阴历、佛历和道历的日历工具库，它开
 https://6tail.cn/calendar/api.html#overview.html
 
 * cnlunar   
-农历，中国农历历法项目，无需数据库环境，以《钦定协纪辨方书》为核心的python3 农历、黄历、二十四节气、节假日、星次、每日凶煞、每日值神、农历建除十二神、农历每日宜忌、彭祖百忌、每日五行、二十八星宿、天干地支、农历生辰八字、时辰凶吉等开源项目。 
+农历，中国农历历法项目，无需数据库环境，以《钦定协纪辨方书》为核心的python3 农历、黄历、二十四节气、节假日、星次、每日凶煞、每日值神、农历建除十二神、农历每日宜忌、彭祖百忌、每日五行、二十八星宿、天干地支、农历生辰八字、时辰凶吉等开源项目。    
 https://github.com/OPN48/cnlunar
 
 ## 历法数据
+### 公历与农历对照
+* 香港天文台公历与农历对照表1901至2100年
+https://www.hko.gov.hk/tc/gts/time/conversion.htm 
+* 
